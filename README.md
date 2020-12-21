@@ -1,6 +1,6 @@
 # HAR
-###(Anmol Paliwal, Avinash Kumar, Sanaka Nadeesh)
-Human Activity Recognition
+# Human Activity Recognition
+### (Anmol Paliwal, Avinash Kumar, Sanaka Nadeesh)
 
 ## Downloading the Dataset
 Link: https://20bn.com/datasets/something-something
