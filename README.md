@@ -1,4 +1,4 @@
-# HAR (Anmol Paliwal, Avinash Kumar, Sanaka Nadeesh)
+# HAR ####(Anmol Paliwal, Avinash Kumar, Sanaka Nadeesh)
 Human Activity Recognition
 
 ## Downloading the Dataset
